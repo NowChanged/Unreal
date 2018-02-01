@@ -1,0 +1,1 @@
+change cout and cin
